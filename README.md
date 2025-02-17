@@ -1,2 +1,2 @@
 # python-course
-My Python Course Basics Repo
+My Python basics course Repo
